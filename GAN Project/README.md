@@ -1,0 +1,1 @@
+Generative Adversarial Networks(GAN in short) is an advancement in the field of Machine Learning which is capable of generating new data samples including Text, Audio, Images, Videos, etc. using previously available data.So,All of you will build a GAN model for mnist data available in keras datasets.You Will get data using the code tf.keras.datasets.mnist.load_data().

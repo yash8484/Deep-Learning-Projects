@@ -1,0 +1,2 @@
+We have discussed batch gradient descent  and stochastic gradient descent implementation from scratch.Now it's time 
+to implement mini batch gradient descent.implement that on given data using batch size of 5.
